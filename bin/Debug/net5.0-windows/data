@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Adam",
+    "contactNumber": 145330287,
+    "address": "Alabama"
+  },
+  {
+    "name": "Barrack Obama",
+    "contactNumber": 1234952892,
+    "address": "Washington DC"
+  },
+  {
+    "name": "Ben Affleck",
+    "contactNumber": 1231240,
+    "address": "New Jersey"
+  },
+  {
+    "name": "Ben Stiller",
+    "contactNumber": 231456323,
+    "address": "Manhattan"
+  },
+  {
+    "name": "Donald J Trump",
+    "contactNumber": 129903240,
+    "address": "New York"
+  }
+]

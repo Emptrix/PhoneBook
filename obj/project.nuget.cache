@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HiAoq1OJt29nMpXgcbuhk/TR1JeuFidykB+JkJDfebSx8ynLFJtghO769YGtds2lGMR24mvG/7ent81yrcEARw==",
+  "success": true,
+  "projectFilePath": "D:\\Windows Application Projects\\PhoneBook\\PhoneBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orbxi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
